@@ -1,0 +1,10 @@
+C:\Users\julia\source\repos\NAA\NAA.Services\bin\Debug\NAA.Services.dll
+C:\Users\julia\source\repos\NAA\NAA.Services\bin\Debug\NAA.Services.pdb
+C:\Users\julia\source\repos\NAA\NAA.Services\bin\Debug\NAA.Data.dll
+C:\Users\julia\source\repos\NAA\NAA.Services\bin\Debug\NAA.Data.pdb
+C:\Users\julia\source\repos\NAA\NAA.Services\bin\Debug\NAA.Data.dll.config
+C:\Users\julia\source\repos\NAA\NAA.Services\obj\Debug\NAA.Services.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\NAA\NAA.Services\obj\Debug\NAA.Services.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\NAA\NAA.Services\obj\Debug\NAA.Services.csproj.CopyComplete
+C:\Users\julia\source\repos\NAA\NAA.Services\obj\Debug\NAA.Services.dll
+C:\Users\julia\source\repos\NAA\NAA.Services\obj\Debug\NAA.Services.pdb

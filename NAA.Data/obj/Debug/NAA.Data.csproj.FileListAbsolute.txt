@@ -1,0 +1,12 @@
+C:\Users\julia\source\repos\NAA\NAA.Data\bin\Debug\NAA.Data.dll.config
+C:\Users\julia\source\repos\NAA\NAA.Data\bin\Debug\NAA.Data.dll
+C:\Users\julia\source\repos\NAA\NAA.Data\bin\Debug\NAA.Data.pdb
+C:\Users\julia\source\repos\NAA\NAA.Data\bin\Debug\EntityFramework.dll
+C:\Users\julia\source\repos\NAA\NAA.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\julia\source\repos\NAA\NAA.Data\bin\Debug\EntityFramework.xml
+C:\Users\julia\source\repos\NAA\NAA.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\julia\source\repos\NAA\NAA.Data\obj\Debug\NAA.Data.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\NAA\NAA.Data\obj\Debug\NAA.Data.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\NAA\NAA.Data\obj\Debug\NAA.Data.csproj.CopyComplete
+C:\Users\julia\source\repos\NAA\NAA.Data\obj\Debug\NAA.Data.dll
+C:\Users\julia\source\repos\NAA\NAA.Data\obj\Debug\NAA.Data.pdb
