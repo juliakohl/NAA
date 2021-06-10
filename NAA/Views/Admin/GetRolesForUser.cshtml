@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "GetRolesForUser";
+}
+
+<h2>GetRolesForUser</h2>
+
+@using (Html.BeginForm("GetRolesForUser", "Admin"))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <p>
+        User Name: @Html.DropDownList("Name", (IEnumerable<SelectListItem>)ViewBag.Users)
+    </p>
+
+    <input type="submit" value="Get"/>
+}
